@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![hyun min's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/rkddk7165/github-readme-stats)
+[![hyun min's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkddk7165)](https://github.com/rkddk7165/github-readme-stats)
 출처: https://msyu1207.tist
 <!--
 **rkddk7165/rkddk7165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
